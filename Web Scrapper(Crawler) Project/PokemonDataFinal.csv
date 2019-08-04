@@ -1,0 +1,808 @@
+Name,Ability,DexColor,Type
+Bulbasaur,Overgrow,Green,Grass
+Ivysaur,Overgrow,Green,Grass
+Venusaur,Overgrow,,Grass
+Charmander,Blaze,Red,Fire
+Charmeleon,Blaze,Red,Fire
+Charizard,Blaze,,Fire
+Squirtle,Torrent,Blue,Water
+Wartortle,Torrent,Blue,Water
+Blastoise,Torrent,,Water
+Caterpie,Shield Dust,Green,Bug
+Metapod,,,Bug
+Butterfree,Compound Eyes,White,Bug
+Weedle,Shield Dust,Brown,Bug
+Kakuna,,,Bug
+Beedrill,Swarm,,Bug
+Pidgey,Keen Eye,Brown,Normal
+Pidgeotto,Keen Eye,Brown,Normal
+Pidgeot,Keen Eye,,Normal
+Rattata,Run Away,,Normal
+Raticate,Run Away,,Normal
+Spearow,Keen Eye,Brown,Normal
+Fearow,Keen Eye,Brown,Normal
+Ekans,Intimidate,Purple,Poison
+Arbok,Intimidate,Purple,Poison
+Pikachu,Static,,Electric
+Raichu,Static,,Electric
+Sandshrew,Sand Veil,,Ground
+Sandslash,Sand Veil,,Ground
+Nidoran,Poison Point,Blue,Poison
+Nidorina,Poison Point,Blue,Poison
+Nidoqueen,Poison Point,Blue,Poison
+Nidoran,Poison Point,Purple,Poison
+Nidorino,Poison Point,Purple,Poison
+Nidoking,Poison Point,Purple,Poison
+Clefairy,Cute Charm,Pink,Fairy
+Clefable,Cute Charm,Pink,Fairy
+Vulpix,Flash Fire,,Fire
+Ninetales,Flash Fire,,Fire
+Jigglypuff,Cute Charm,Pink,Normal
+Wigglytuff,Cute Charm,Pink,Normal
+Zubat,Inner Focus,Purple,Poison
+Golbat,Inner Focus,Purple,Poison
+Oddish,Chlorophyll,Blue,Grass
+Gloom,Chlorophyll,Blue,Grass
+Vileplume,Chlorophyll,Red,Grass
+Paras,Effect Spore,Red,Bug
+Parasect,Effect Spore,Red,Bug
+Venonat,Compound Eyes,Purple,Bug
+Venomoth,Shield Dust,Purple,Bug
+Diglett,Sand Veil,,Ground
+Dugtrio,Sand Veil,,Ground
+Meowth,Pickup,,Normal
+Persian,Limber,,Normal
+Psyduck,Damp,Yellow,Water
+Golduck,Damp,Blue,Water
+Mankey,Vital Spirit,Brown,Fighting
+Primeape,Vital Spirit,Brown,Fighting
+Growlithe,Intimidate,Brown,Fire
+Arcanine,Intimidate,Brown,Fire
+Poliwag,Water Absorb,Blue,Water
+Poliwhirl,Water Absorb,Blue,Water
+Poliwrath,Water Absorb,Blue,Water
+Abra,Synchronize,Brown,Psychic
+Kadabra,Synchronize,Brown,Psychic
+Alakazam,Synchronize,,Psychic
+Machop,Guts,Gray,Fighting
+Machoke,Guts,Gray,Fighting
+Machamp,Guts,Gray,Fighting
+Bellsprout,Chlorophyll,Green,Grass
+Weepinbell,Chlorophyll,Green,Grass
+Victreebel,Chlorophyll,Green,Grass
+Tentacool,Clear Body,Blue,Water
+Tentacruel,Clear Body,Blue,Water
+Geodude,Rock Head,,Rock
+Graveler,Rock Head,,Rock
+Golem,Rock Head,,Rock
+Ponyta,Run Away,Yellow,Fire
+Rapidash,Run Away,Yellow,Fire
+Slowpoke,Oblivious,Pink,Water
+Slowbro,Oblivious,,Water
+Magnemite,Magnet Pull,Gray,Electric
+Magneton,Magnet Pull,Gray,Electric
+Farfetchd,Keen Eye,Brown,Normal
+Doduo,Run Away,Brown,Normal
+Dodrio,Run Away,Brown,Normal
+Seel,Thick Fat,White,Water
+Dewgong,Thick Fat,White,Water
+Grimer,Stench,,Poison
+Muk,Stench,,Poison
+Shellder,Shell Armor,Purple,Water
+Cloyster,Shell Armor,Purple,Water
+Gastly,,,Ghost
+Haunter,,,Ghost
+Gengar,Cursed Body,,Ghost
+Onix,Rock Head,Gray,Rock
+Drowzee,Insomnia,Yellow,Psychic
+Hypno,Insomnia,Yellow,Psychic
+Krabby,Hyper Cutter,Red,Water
+Kingler,Hyper Cutter,Red,Water
+Voltorb,Soundproof,Red,Electric
+Electrode,Soundproof,Red,Electric
+Exeggcute,Chlorophyll,Pink,Grass
+Exeggutor,Chlorophyll,,Grass
+Cubone,Rock Head,Brown,Ground
+Marowak,Rock Head,,Ground
+Hitmonlee,Limber,Brown,Fighting
+Hitmonchan,Keen Eye,Brown,Fighting
+Lickitung,Own Tempo,Pink,Normal
+Koffing,,,Poison
+Weezing,,,Poison
+Rhyhorn,Lightning Rod,Gray,Ground
+Rhydon,Lightning Rod,Gray,Ground
+Chansey,Natural Cure,Pink,Normal
+Tangela,Chlorophyll,Blue,Grass
+Kangaskhan,Early Bird,,Normal
+Horsea,Swift Swim,Blue,Water
+Seadra,Poison Point,Blue,Water
+Goldeen,Swift Swim,Red,Water
+Seaking,Swift Swim,Red,Water
+Staryu,Illuminate,Brown,Water
+Starmie,Illuminate,Purple,Water
+MrMime,Soundproof,Pink,Psychic
+Scyther,Swarm,Green,Bug
+Jynx,Oblivious,Red,Ice
+Electabuzz,Static,Yellow,Electric
+Magmar,Flame Body,Red,Fire
+Pinsir,Hyper Cutter,,Bug
+Tauros,Intimidate,Brown,Normal
+Magikarp,Swift Swim,Red,Water
+Gyarados,Intimidate,,Water
+Lapras,Water Absorb,Blue,Water
+Ditto,Limber,Purple,Normal
+Eevee,Run Away,Brown,Normal
+Vaporeon,Water Absorb,Blue,Water
+Jolteon,Volt Absorb,Yellow,Electric
+Flareon,Flash Fire,Red,Fire
+Porygon,Trace,Pink,Normal
+Omanyte,Swift Swim,Blue,Rock
+Omastar,Swift Swim,Blue,Rock
+Kabuto,Swift Swim,Brown,Rock
+Kabutops,Swift Swim,Brown,Rock
+Aerodactyl,Rock Head,,Rock
+Snorlax,Immunity,Black,Normal
+Articuno,Pressure,Blue,Ice
+Zapdos,Pressure,,Electric
+Moltres,Pressure,Yellow,Fire
+Dratini,Shed Skin,Blue,Dragon
+Dragonair,Shed Skin,Blue,Dragon
+Dragonite,Inner Focus,Brown,Dragon
+Mewtwo,Pressure,,Psychic
+Mew,,,Psychic
+Chikorita,Overgrow,Green,Grass
+Bayleef,Overgrow,Green,Grass
+Meganium,Overgrow,Green,Grass
+Cyndaquil,Blaze,Yellow,Fire
+Quilava,Blaze,Yellow,Fire
+Typhlosion,Blaze,Yellow,Fire
+Totodile,Torrent,Blue,Water
+Croconaw,Torrent,Blue,Water
+Feraligatr,Torrent,Blue,Water
+Sentret,Run Away,Brown,Normal
+Furret,Run Away,Brown,Normal
+Hoothoot,Insomnia,Brown,Normal
+Noctowl,Insomnia,Brown,Normal
+Ledyba,Swarm,Red,Bug
+Ledian,Swarm,Red,Bug
+Spinarak,Swarm,Green,Bug
+Ariados,Swarm,Red,Bug
+Crobat,Inner Focus,Purple,Poison
+Chinchou,Volt Absorb,Blue,Water
+Lanturn,Volt Absorb,Blue,Water
+Pichu,Static,Yellow,Electric
+Cleffa,Cute Charm,Pink,Fairy
+Igglybuff,Cute Charm,Pink,Normal
+Togepi,Hustle,White,Fairy
+Togetic,Hustle,White,Fairy
+Natu,Synchronize,Green,Psychic
+Xatu,Synchronize,Green,Psychic
+Mareep,Static,White,Electric
+Flaaffy,Static,Pink,Electric
+Ampharos,Static,,Electric
+Bellossom,Chlorophyll,Green,Grass
+Marill,Thick Fat,Blue,Water
+Azumarill,Thick Fat,Blue,Water
+Sudowoodo,Sturdy,Brown,Rock
+Politoed,Water Absorb,Green,Water
+Hoppip,Chlorophyll,Pink,Grass
+Skiploom,Chlorophyll,Green,Grass
+Jumpluff,Chlorophyll,Blue,Grass
+Aipom,Run Away,Purple,Normal
+Sunkern,Chlorophyll,Yellow,Grass
+Sunflora,Chlorophyll,Yellow,Grass
+Yanma,Speed Boost,Red,Bug
+Wooper,Damp,Blue,Water
+Quagsire,Damp,Blue,Water
+Espeon,Synchronize,Purple,Psychic
+Umbreon,Synchronize,Black,Dark
+Murkrow,Insomnia,Black,Dark
+Slowking,Oblivious,Pink,Water
+Misdreavus,,,Ghost
+Unown,,,Psychic
+Wobbuffet,Shadow Tag,Blue,Psychic
+Girafarig,Inner Focus,Yellow,Normal
+Pineco,Sturdy,Gray,Bug
+Forretress,Sturdy,Purple,Bug
+Dunsparce,Serene Grace,Yellow,Normal
+Gligar,Hyper Cutter,Purple,Ground
+Steelix,Rock Head,,Steel
+Snubbull,Intimidate,Pink,Fairy
+Granbull,Intimidate,Purple,Fairy
+Qwilfish,Poison Point,Gray,Water
+Scizor,Swarm,,Bug
+Shuckle,Sturdy,Yellow,Bug
+Heracross,Swarm,,Bug
+Sneasel,Inner Focus,Black,Dark
+Teddiursa,Pickup,Brown,Normal
+Ursaring,Guts,Brown,Normal
+Slugma,Magma Armor,Red,Fire
+Magcargo,Magma Armor,Red,Fire
+Swinub,Oblivious,Brown,Ice
+Piloswine,Oblivious,Brown,Ice
+Corsola,Hustle,Pink,Water
+Remoraid,Hustle,Gray,Water
+Octillery,Suction Cups,Red,Water
+Delibird,Vital Spirit,Red,Ice
+Mantine,Swift Swim,Purple,Water
+Skarmory,Keen Eye,Gray,Steel
+Houndour,Early Bird,Black,Dark
+Houndoom,Early Bird,,Dark
+Kingdra,Swift Swim,Blue,Water
+Phanpy,Pickup,Blue,Ground
+Donphan,Sturdy,Gray,Ground
+Porygon2,Trace,Red,Normal
+Stantler,Intimidate,Brown,Normal
+Smeargle,Own Tempo,White,Normal
+Tyrogue,Guts,Purple,Fighting
+Hitmontop,Intimidate,Brown,Fighting
+Smoochum,Oblivious,Pink,Ice
+Elekid,Static,Yellow,Electric
+Magby,Flame Body,Red,Fire
+Miltank,Thick Fat,Pink,Normal
+Blissey,Natural Cure,Pink,Normal
+Raikou,Pressure,,Electric
+Entei,Pressure,,Fire
+Suicune,Pressure,,Water
+Larvitar,Guts,Green,Rock
+Pupitar,,,Rock
+Tyranitar,Sand Stream,,Rock
+Lugia,Pressure,White,Psychic
+HoOh,Pressure,Red,Fire
+Celebi,,,Psychic
+Treecko,Overgrow,Green,Grass
+Grovyle,Overgrow,Green,Grass
+Sceptile,Overgrow,,Grass
+Torchic,Blaze,Red,Fire
+Combusken,Blaze,Red,Fire
+Blaziken,Blaze,,Fire
+Mudkip,Torrent,Blue,Water
+Marshtomp,Torrent,Blue,Water
+Swampert,Torrent,,Water
+Poochyena,Run Away,Gray,Dark
+Mightyena,Intimidate,Gray,Dark
+Zigzagoon,Pickup,Brown,Normal
+Linoone,Pickup,White,Normal
+Wurmple,Shield Dust,Red,Bug
+Silcoon,,,Bug
+Beautifly,Swarm,Yellow,Bug
+Cascoon,,,Bug
+Dustox,Shield Dust,Green,Bug
+Lotad,Swift Swim,Green,Water
+Lombre,Swift Swim,Green,Water
+Ludicolo,Swift Swim,Green,Water
+Seedot,Chlorophyll,Brown,Grass
+Nuzleaf,Chlorophyll,Brown,Grass
+Shiftry,Chlorophyll,Brown,Grass
+Taillow,Guts,Blue,Normal
+Swellow,Guts,Blue,Normal
+Wingull,Keen Eye,White,Water
+Pelipper,Keen Eye,Yellow,Water
+Ralts,Synchronize,White,Psychic
+Kirlia,Synchronize,White,Psychic
+Gardevoir,Synchronize,,Psychic
+Surskit,Swift Swim,Blue,Bug
+Masquerain,Intimidate,Blue,Bug
+Shroomish,Effect Spore,Brown,Grass
+Breloom,Effect Spore,Green,Grass
+Slakoth,,,Normal
+Vigoroth,,,Normal
+Slaking,,,Normal
+Nincada,Compound Eyes,Gray,Bug
+Ninjask,Speed Boost,Yellow,Bug
+Shedinja,,,Bug
+Whismur,Soundproof,Pink,Normal
+Loudred,Soundproof,Blue,Normal
+Exploud,Soundproof,Blue,Normal
+Makuhita,Thick Fat,Yellow,Fighting
+Hariyama,Thick Fat,Brown,Fighting
+Azurill,Thick Fat,Blue,Normal
+Nosepass,Sturdy,Gray,Rock
+Skitty,Cute Charm,Pink,Normal
+Delcatty,Cute Charm,Purple,Normal
+Sableye,Keen Eye,,Dark
+Mawile,Hyper Cutter,,Steel
+Aron,Sturdy,Gray,Steel
+Lairon,Sturdy,Gray,Steel
+Aggron,Sturdy,,Steel
+Meditite,Pure Power,Blue,Fighting
+Medicham,Pure Power,,Fighting
+Electrike,Static,Green,Electric
+Manectric,Static,,Electric
+Plusle,Plus,Yellow,Electric
+Minun,Minus,Yellow,Electric
+Volbeat,Illuminate,Gray,Bug
+Illumise,Oblivious,Purple,Bug
+Roselia,Natural Cure,Green,Grass
+Gulpin,Liquid Ooze,Green,Poison
+Swalot,Liquid Ooze,Purple,Poison
+Carvanha,Rough Skin,Red,Water
+Sharpedo,Rough Skin,,Water
+Wailmer,Water Veil,Blue,Water
+Wailord,Water Veil,Blue,Water
+Numel,Oblivious,Yellow,Fire
+Camerupt,Magma Armor,,Fire
+Torkoal,White Smoke,Brown,Fire
+Spoink,Thick Fat,Black,Psychic
+Grumpig,Thick Fat,Purple,Psychic
+Spinda,Own Tempo,Brown,Normal
+Trapinch,Hyper Cutter,Brown,Ground
+Vibrava,,,Ground
+Flygon,,,Ground
+Cacnea,Sand Veil,Green,Grass
+Cacturne,Sand Veil,Green,Grass
+Swablu,Natural Cure,Blue,Normal
+Altaria,Natural Cure,,Dragon
+Zangoose,Immunity,White,Normal
+Seviper,Shed Skin,Black,Poison
+Lunatone,,,Rock
+Solrock,,,Rock
+Barboach,Oblivious,Gray,Water
+Whiscash,Oblivious,Blue,Water
+Corphish,Hyper Cutter,Red,Water
+Crawdaunt,Hyper Cutter,Red,Water
+Baltoy,,,Ground
+Claydol,,,Ground
+Lileep,Suction Cups,Purple,Rock
+Cradily,Suction Cups,Green,Rock
+Anorith,Battle Armor,Gray,Rock
+Armaldo,Battle Armor,Gray,Rock
+Feebas,Swift Swim,Brown,Water
+Milotic,Marvel Scale,Pink,Water
+Castform,,,Normal
+Kecleon,Color Change,Green,Normal
+Shuppet,Insomnia,Black,Ghost
+Banette,Insomnia,,Ghost
+Duskull,Levitate,Black,Ghost
+Dusclops,Pressure,Black,Ghost
+Tropius,Chlorophyll,Green,Grass
+Chimecho,,,Psychic
+Absol,Pressure,,Dark
+Wynaut,Shadow Tag,Blue,Psychic
+Snorunt,Inner Focus,Gray,Ice
+Glalie,Inner Focus,,Ice
+Spheal,Thick Fat,Blue,Ice
+Sealeo,Thick Fat,Blue,Ice
+Walrein,Thick Fat,Blue,Ice
+Clamperl,Shell Armor,Blue,Water
+Huntail,Swift Swim,Blue,Water
+Gorebyss,Swift Swim,Pink,Water
+Relicanth,Swift Swim,Gray,Water
+Luvdisc,Swift Swim,Pink,Water
+Bagon,Rock Head,Blue,Dragon
+Shelgon,Rock Head,White,Dragon
+Salamence,Intimidate,,Dragon
+Beldum,Clear Body,Blue,Steel
+Metang,Clear Body,Blue,Steel
+Metagross,Clear Body,,Steel
+Regirock,Clear Body,Brown,Rock
+Regice,Clear Body,Blue,Ice
+Registeel,Clear Body,Gray,Steel
+Latias,,,Dragon
+Latios,,,Dragon
+Kyogre,Drizzle,Blue,Water
+Groudon,Drought,Red,Ground
+Rayquaza,Air Lock,Green,Dragon
+Jirachi,,,Steel
+Deoxys,,,Psychic
+Turtwig,Overgrow,Green,Grass
+Grotle,Overgrow,Green,Grass
+Torterra,Overgrow,Green,Grass
+Chimchar,Blaze,Brown,Fire
+Monferno,Blaze,Brown,Fire
+Infernape,Blaze,Brown,Fire
+Piplup,Torrent,Blue,Water
+Prinplup,Torrent,Blue,Water
+Empoleon,Torrent,Blue,Water
+Starly,Keen Eye,Brown,Normal
+Staravia,Intimidate,Brown,Normal
+Staraptor,Intimidate,Brown,Normal
+Bidoof,Simple,Brown,Normal
+Bibarel,Simple,Brown,Normal
+Kricketot,Shed Skin,Red,Bug
+Kricketune,Swarm,Red,Bug
+Shinx,Rivalry,Blue,Electric
+Luxio,Rivalry,Blue,Electric
+Luxray,Rivalry,Blue,Electric
+Budew,Natural Cure,Green,Grass
+Roserade,Natural Cure,Green,Grass
+Cranidos,Mold Breaker,Blue,Rock
+Rampardos,Mold Breaker,Blue,Rock
+Shieldon,Sturdy,Gray,Rock
+Bastiodon,Sturdy,Gray,Rock
+Burmy,Shed Skin,Green,Bug
+Wormadam,Anticipation,GreenOther forms may have other colors.,Bug
+Mothim,Swarm,Yellow,Bug
+Combee,Honey Gather,Yellow,Bug
+Vespiquen,Pressure,Yellow,Bug
+Pachirisu,Run Away,White,Electric
+Buizel,Swift Swim,Brown,Water
+Floatzel,Swift Swim,Brown,Water
+Cherubi,,,Grass
+Cherrim,,,Grass
+Shellos,Sticky Hold,PurpleOther forms may have other colors.,Water
+Gastrodon,Sticky Hold,PurpleOther forms may have other colors.,Water
+Ambipom,Technician,Purple,Normal
+Drifloon,Aftermath,Purple,Ghost
+Drifblim,Aftermath,Purple,Ghost
+Buneary,Run Away,Brown,Normal
+Lopunny,Cute Charm,,Normal
+Mismagius,,,Ghost
+Honchkrow,Insomnia,Black,Dark
+Glameow,Limber,Gray,Normal
+Purugly,Thick Fat,Gray,Normal
+Chingling,,,Psychic
+Stunky,Stench,Purple,Poison
+Skuntank,Stench,Purple,Poison
+Bronzor,Levitate,Green,Steel
+Bronzong,Levitate,Green,Steel
+Bonsly,Sturdy,Brown,Rock
+MimeJr,Soundproof,Pink,Psychic
+Happiny,Natural Cure,Pink,Normal
+Chatot,Keen Eye,Black,Normal
+Spiritomb,Pressure,Purple,Ghost
+Gible,Sand Veil,Blue,Dragon
+Gabite,Sand Veil,Blue,Dragon
+Garchomp,Sand Veil,,Dragon
+Munchlax,Pickup,Black,Normal
+Riolu,Steadfast,Blue,Fighting
+Lucario,Steadfast,,Fighting
+Hippopotas,Sand Stream,Brown,Ground
+Hippowdon,Sand Stream,Brown,Ground
+Skorupi,Battle Armor,Purple,Poison
+Drapion,Battle Armor,Purple,Poison
+Croagunk,Anticipation,Blue,Poison
+Toxicroak,Anticipation,Blue,Poison
+Carnivine,,,Grass
+Finneon,Swift Swim,Blue,Water
+Lumineon,Swift Swim,Blue,Water
+Mantyke,Swift Swim,Blue,Water
+Snover,Snow Warning,White,Grass
+Abomasnow,Snow Warning,,Grass
+Weavile,Pressure,Black,Dark
+Magnezone,Magnet Pull,Gray,Electric
+Lickilicky,Own Tempo,Pink,Normal
+Rhyperior,Lightning Rod,Gray,Ground
+Tangrowth,Chlorophyll,Blue,Grass
+Electivire,Motor Drive,Yellow,Electric
+Magmortar,Flame Body,Red,Fire
+Togekiss,Hustle,White,Fairy
+Yanmega,Speed Boost,Green,Bug
+Leafeon,Leaf Guard,Green,Grass
+Glaceon,Snow Cloak,Blue,Ice
+Gliscor,Hyper Cutter,Purple,Ground
+Mamoswine,Oblivious,Brown,Ice
+PorygonZ,Adaptability,Red,Normal
+Gallade,Steadfast,,Psychic
+Probopass,Sturdy,Gray,Rock
+Dusknoir,Pressure,Black,Ghost
+Froslass,Snow Cloak,White,Ice
+Rotom,,,Electric
+Uxie,,,Psychic
+Mesprit,,,Psychic
+Azelf,,,Psychic
+Dialga,Pressure,White,Steel
+Palkia,Pressure,Purple,Water
+Heatran,Flash Fire,Brown,Fire
+Regigigas,,,Normal
+Giratina,Pressure,,Ghost
+Cresselia,,,Psychic
+Phione,,,Water
+Manaphy,,,Water
+Darkrai,,,Dark
+Shaymin,Natural Cure,Green,Grass
+Arceus,,,Normal
+Victini,,,Psychic
+Snivy,Overgrow,Green,Grass
+Servine,Overgrow,Green,Grass
+Serperior,Overgrow,Green,Grass
+Tepig,Blaze,Red,Fire
+Pignite,Blaze,Red,Fire
+Emboar,Blaze,Red,Fire
+Oshawott,Torrent,Blue,Water
+Dewott,Torrent,Blue,Water
+Samurott,Torrent,Blue,Water
+Patrat,Run Away,Brown,Normal
+Watchog,Illuminate,Brown,Normal
+Lillipup,Vital Spirit,Brown,Normal
+Herdier,Intimidate,Gray,Normal
+Stoutland,Intimidate,Gray,Normal
+Purrloin,Limber,Purple,Dark
+Liepard,Limber,Purple,Dark
+Pansage,Gluttony,Green,Grass
+Simisage,Gluttony,Green,Grass
+Pansear,Gluttony,Red,Fire
+Simisear,Gluttony,Red,Fire
+Panpour,Gluttony,Blue,Water
+Simipour,Gluttony,Blue,Water
+Munna,Forewarn,Pink,Psychic
+Musharna,Forewarn,Pink,Psychic
+Pidove,Big Pecks,Gray,Normal
+Tranquill,Big Pecks,Gray,Normal
+Unfezant,Big Pecks,Gray,Normal
+Blitzle,Lightning Rod,Black,Electric
+Zebstrika,Lightning Rod,Black,Electric
+Roggenrola,Sturdy,Blue,Rock
+Boldore,Sturdy,Blue,Rock
+Gigalith,Sturdy,Blue,Rock
+Woobat,Unaware,Blue,Psychic
+Swoobat,Unaware,Blue,Psychic
+Drilbur,Sand Rush,Gray,Ground
+Excadrill,Sand Rush,Gray,Ground
+Audino,Healer,,Normal
+Timburr,Guts,Gray,Fighting
+Gurdurr,Guts,Gray,Fighting
+Conkeldurr,Guts,Brown,Fighting
+Tympole,Swift Swim,Blue,Water
+Palpitoad,Swift Swim,Blue,Water
+Seismitoad,Swift Swim,Blue,Water
+Throh,Guts,Red,Fighting
+Sawk,Sturdy,Blue,Fighting
+Sewaddle,Swarm,Yellow,Bug
+Swadloon,Leaf Guard,Green,Bug
+Leavanny,Swarm,Yellow,Bug
+Venipede,Poison Point,,Bug
+Whirlipede,Poison Point,,Bug
+Scolipede,Poison Point,,Bug
+Cottonee,Prankster,Green,Grass
+Whimsicott,Prankster,Green,Grass
+Petilil,Chlorophyll,Green,Grass
+Lilligant,Chlorophyll,Green,Grass
+Basculin,Reckless,,Water
+Sandile,Intimidate,Brown,Ground
+Krokorok,Intimidate,Brown,Ground
+Krookodile,Intimidate,Red,Ground
+Darumaka,Hustle,Red,Fire
+Darmanitan,Sheer Force,RedOther forms may have other colors.,Fire
+Maractus,Water Absorb,Green,Grass
+Dwebble,Sturdy,Red,Bug
+Crustle,Sturdy,Red,Bug
+Scraggy,Shed Skin,Yellow,Dark
+Scrafty,Shed Skin,Red,Dark
+Sigilyph,Wonder Skin,Black,Psychic
+Yamask,,,Ghost
+Cofagrigus,,,Ghost
+Tirtouga,Solid Rock,Blue,Water
+Carracosta,Solid Rock,Blue,Water
+Archen,,,Rock
+Archeops,,,Rock
+Trubbish,Stench,Green,Poison
+Garbodor,Stench,Green,Poison
+Zorua,,,Dark
+Zoroark,,,Dark
+Minccino,Cute Charm,Gray,Normal
+Cinccino,Cute Charm,Gray,Normal
+Gothita,Frisk,Purple,Psychic
+Gothorita,Frisk,Purple,Psychic
+Gothitelle,Frisk,Purple,Psychic
+Solosis,Overcoat,Green,Psychic
+Duosion,Overcoat,Green,Psychic
+Reuniclus,Overcoat,Green,Psychic
+Ducklett,Keen Eye,Blue,Water
+Swanna,Keen Eye,White,Water
+Vanillite,Ice Body,White,Ice
+Vanillish,Ice Body,White,Ice
+Vanilluxe,Ice Body,White,Ice
+Deerling,Chlorophyll,Pink,Normal
+Sawsbuck,Chlorophyll,Brown,Normal
+Emolga,Static,White,Electric
+Karrablast,Swarm,Blue,Bug
+Escavalier,Swarm,Gray,Bug
+Foongus,Effect Spore,White,Grass
+Amoonguss,Effect Spore,White,Grass
+Frillish,Water Absorb,White,Water
+Jellicent,Water Absorb,White,Water
+Alomomola,Healer,Pink,Water
+Joltik,Compound Eyes,Yellow,Bug
+Galvantula,Compound Eyes,Yellow,Bug
+Ferroseed,,,Grass
+Ferrothorn,Iron Barbs,Gray,Grass
+Klink,Plus,Gray,Steel
+Klang,Plus,Gray,Steel
+Klinklang,Plus,Gray,Steel
+Tynamo,,,Electric
+Eelektrik,,,Electric
+Eelektross,,,Electric
+Elgyem,Telepathy,Blue,Psychic
+Beheeyem,Telepathy,Brown,Psychic
+Litwick,Flash Fire,,Ghost
+Lampent,Flash Fire,,Ghost
+Chandelure,Flash Fire,,Ghost
+Axew,Rivalry,Green,Dragon
+Fraxure,Rivalry,Green,Dragon
+Haxorus,Rivalry,Yellow,Dragon
+Cubchoo,Snow Cloak,White,Ice
+Beartic,Snow Cloak,White,Ice
+Cryogonal,,,Ice
+Shelmet,Hydration,Red,Bug
+Accelgor,Hydration,Red,Bug
+Stunfisk,Static,Brown,Ground
+Mienfoo,Inner Focus,Yellow,Fighting
+Mienshao,Inner Focus,Purple,Fighting
+Druddigon,Rough Skin,Red,Dragon
+Golett,Iron Fist,Green,Ground
+Golurk,Iron Fist,Green,Ground
+Pawniard,Defiant,Red,Dark
+Bisharp,Defiant,Red,Dark
+Bouffalant,Reckless,Brown,Normal
+Rufflet,Keen Eye,White,Normal
+Braviary,Keen Eye,Red,Normal
+Vullaby,Big Pecks,Brown,Dark
+Mandibuzz,Big Pecks,Brown,Dark
+Heatmor,Gluttony,Red,Fire
+Durant,Swarm,Gray,Bug
+Deino,,,Dark
+Zweilous,,,Dark
+Hydreigon,,,Dark
+Larvesta,Flame Body,White,Bug
+Volcarona,Flame Body,White,Bug
+Cobalion,,,Steel
+Terrakion,,,Rock
+Virizion,,,Grass
+Tornadus,Prankster,,Flying
+Thundurus,Prankster,,Electric
+Reshiram,,,Dragon
+Zekrom,,,Dragon
+Landorus,Sand Force,,Ground
+Kyurem,Pressure,,Dragon
+Keldeo,,,Water
+Meloetta,Serene Grace,White,Normal
+Genesect,,,Bug
+Chespin,Overgrow,Green,Grass
+Quilladin,Overgrow,Green,Grass
+Chesnaught,Overgrow,Green,Grass
+Fennekin,Blaze,Red,Fire
+Braixen,Blaze,Red,Fire
+Delphox,Blaze,Red,Fire
+Froakie,Torrent,Blue,Water
+Frogadier,Torrent,Blue,Water
+Greninja,Torrent,,Water
+Bunnelby,Pickup,Brown,Normal
+Diggersby,Pickup,Brown,Normal
+Fletchling,Big Pecks,Red,Normal
+Fletchinder,Flame Body,Red,Fire
+Talonflame,Flame Body,Red,Fire
+Scatterbug,Shield Dust,Black,Bug
+Spewpa,Shed Skin,Black,Bug
+Vivillon,Shield Dust,White,Bug
+Litleo,Rivalry,Brown,Fire
+Pyroar,Rivalry,Brown,Fire
+Flabébé,Flower Veil,White,Fairy
+Floette,Flower Veil,White,Fairy
+Florges,Flower Veil,White,Fairy
+Skiddo,Sap Sipper,Brown,Grass
+Gogoat,Sap Sipper,Brown,Grass
+Pancham,Iron Fist,White,Fighting
+Pangoro,Iron Fist,White,Fighting
+Furfrou,,,Normal
+Espurr,Keen Eye,Gray,Psychic
+Meowstic,Keen Eye,,Psychic
+Honedge,,,Steel
+Doublade,,,Steel
+Aegislash,,,Steel
+Spritzee,Healer,Pink,Fairy
+Aromatisse,Healer,Pink,Fairy
+Swirlix,Sweet Veil,White,Fairy
+Slurpuff,Sweet Veil,White,Fairy
+Inkay,Suction Cups,Blue,Dark
+Malamar,Suction Cups,Blue,Dark
+Binacle,Sniper,Brown,Rock
+Barbaracle,Sniper,Brown,Rock
+Skrelp,Poison Point,Brown,Poison
+Dragalge,Poison Point,Brown,Poison
+Clauncher,,,Water
+Clawitzer,,,Water
+Helioptile,Dry Skin,Yellow,Electric
+Heliolisk,Dry Skin,Yellow,Electric
+Tyrunt,Strong Jaw,Brown,Rock
+Tyrantrum,Strong Jaw,Red,Rock
+Amaura,Refrigerate,Blue,Rock
+Aurorus,Refrigerate,Blue,Rock
+Sylveon,Cute Charm,Pink,Fairy
+Hawlucha,Limber,Green,Fighting
+Dedenne,Cheek Pouch,Yellow,Electric
+Carbink,Clear Body,Gray,Rock
+Goomy,Sap Sipper,Purple,Dragon
+Sliggoo,Sap Sipper,Purple,Dragon
+Goodra,Sap Sipper,Purple,Dragon
+Klefki,Prankster,Gray,Steel
+Phantump,Natural Cure,Brown,Ghost
+Trevenant,Natural Cure,Brown,Ghost
+Pumpkaboo,Pickup,Brown,Ghost
+Gourgeist,Pickup,Brown,Ghost
+Bergmite,Own Tempo,Blue,Ice
+Avalugg,Own Tempo,Blue,Ice
+Noibat,Frisk,Purple,Flying
+Noivern,Frisk,Purple,Flying
+Xerneas,,,Fairy
+Yveltal,,,Dark
+Zygarde,Aura Break,,Dragon
+Diancie,Clear Body,Pink,Rock
+Hoopa,Magician,Purple,Psychic
+Volcanion,,,Fire
+Rowlet,Overgrow,Brown,Grass
+Dartrix,Overgrow,Brown,Grass
+Decidueye,Overgrow,Brown,Grass
+Litten,Blaze,Red,Fire
+Torracat,Blaze,Red,Fire
+Incineroar,Blaze,Red,Fire
+Popplio,Torrent,Blue,Water
+Brionne,Torrent,Blue,Water
+Primarina,Torrent,Blue,Water
+Pikipek,Keen Eye,Black,Normal
+Trumbeak,Keen Eye,Black,Normal
+Toucannon,Keen Eye,Black,Normal
+Yungoos,Stakeout,Brown,Normal
+Gumshoos,Stakeout,Brown,Normal
+Grubbin,,,Bug
+Charjabug,,,Bug
+Vikavolt,,,Bug
+Crabrawler,Hyper Cutter,Purple,Fighting
+Crabominable,Hyper Cutter,White,Fighting
+Oricorio,,,Fire
+Cutiefly,Honey Gather,Yellow,Bug
+Ribombee,Honey Gather,Yellow,Bug
+Rockruff,Keen Eye,,Rock
+Lycanroc,Keen Eye,,Rock
+Wishiwashi,,,Water
+Mareanie,Merciless,Blue,Poison
+Toxapex,Merciless,Blue,Poison
+Mudbray,Own Tempo,Brown,Ground
+Mudsdale,Own Tempo,Brown,Ground
+Dewpider,Water Bubble,Green,Water
+Araquanid,Water Bubble,Green,Water
+Fomantis,Leaf Guard,Pink,Grass
+Lurantis,Leaf Guard,Pink,Grass
+Morelull,Illuminate,Purple,Grass
+Shiinotic,Illuminate,Purple,Grass
+Salandit,Corrosion,Black,Poison
+Salazzle,Corrosion,Black,Poison
+Stufful,Fluffy,Pink,Normal
+Bewear,Fluffy,Pink,Normal
+Bounsweet,Leaf Guard,Purple,Grass
+Steenee,Leaf Guard,Purple,Grass
+Tsareena,Leaf Guard,Purple,Grass
+Comfey,Flower Veil,Green,Fairy
+Oranguru,Inner Focus,White,Normal
+Passimian,Receiver,White,Fighting
+Wimpod,,,Bug
+Golisopod,,,Bug
+Sandygast,Water Compaction,Brown,Ghost
+Palossand,Water Compaction,Brown,Ghost
+Pyukumuku,Innards Out,Black,Water
+TypeNull,,,Normal
+Silvally,,,Normal
+Minior,,,Rock
+Komala,,,Normal
+Turtonator,,,Fire
+Togedemaru,Iron Barbs,Gray,Electric
+Mimikyu,,,Ghost
+Bruxish,Dazzling,Pink,Water
+Drampa,Berserk,White,Normal
+Dhelmise,,,Ghost
+Jangmoo,Bulletproof,Gray,Dragon
+Hakamoo,Bulletproof,Gray,Dragon
+Kommoo,Bulletproof,Gray,Dragon
+TapuKoko,Electric Surge,Yellow,Electric
+TapuLele,Psychic Surge,Pink,Psychic
+TapuBulu,Grassy Surge,Red,Grass
+TapuFini,Misty Surge,Purple,Water
+Cosmog,,,Psychic
+Cosmoem,,,Psychic
+Solgaleo,,,Psychic
+Lunala,,,Psychic
+Nihilego,Beast Boost,White,Rock
+Buzzwole,Beast Boost,Red,Bug
+Pheromosa,Beast Boost,White,Bug
+Xurkitree,Beast Boost,Black,Electric
+Celesteela,Beast Boost,Green,Steel
+Kartana,Beast Boost,White,Grass
+Guzzlord,Beast Boost,Black,Dark
+Necrozma,,,Psychic
+Magearna,Soul-Heart,GrayOther forms may have other colors.,Steel
+Marshadow,Technician,Gray,Fighting
+Poipole,Beast Boost,Purple,Poison
+Naganadel,Beast Boost,Purple,Poison
+Stakataka,Beast Boost,Gray,Rock
+Blacephalon,Beast Boost,White,Fire
+Zeraora,Volt Absorb,Yellow,Electric
